@@ -1,7 +1,8 @@
-langchain
 langchain-community
 pypdf
 streamlit
+chroma-hnswlib
 chromadb==0.4.4
 boto3
 python-dotenv
+langchain
